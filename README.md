@@ -1,4 +1,4 @@
 # jimmy-gym-buddy
 
 AI gym assistant
-hello 
+hello hihihis
